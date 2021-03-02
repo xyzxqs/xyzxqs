@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+APPs made by xyzxqs:
+- [JSKit APP](https://jskitapp.com) - JS IDE on Android platform, see [JSKit Release](https://github.com/jskitapp/jskitapp-release/releases)
+
+
 <!--
 **xyzxqs/xyzxqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
